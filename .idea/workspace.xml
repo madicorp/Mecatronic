@@ -2,131 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="96c16c74-1abe-4a59-8147-1aa819a45b7d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/FAP_USE.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/SRS.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Suppression_ERG.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/airbag.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/airbag_error.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/board_diadostic.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/board_signal.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/calculator_use.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/car_board.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/diesel_analyse.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/diesel_components.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/diesel_labo.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/electronical_test.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/supression_FAP.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contact.html" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/amortisseur-clean.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/amortisseur-haut.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/amortisseur.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/belt-icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/circuit-clim.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/climatisation_interieur.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/entretient-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/entretient-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/entretient.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/etriers_de_frein.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/flicker/img-01.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/flicker/img-02.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/flicker/img-03.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/flicker/img-04.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/flicker/img-05.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/flicker/img-06.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/frein-disques.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/frein-entretien.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/graphe.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/huile-motul.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/img-02.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/img-03.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/img-04.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/img-05.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/img-06.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/img-07.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/img-08.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/img-10.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/img-12.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/img-13.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/img-14.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/portfolio-masnory/img-01.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/portfolio-masnory/img-02.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/portfolio-masnory/img-03.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/portfolio-masnory/img-04.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/portfolio-masnory/img-05.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/portfolio-masnory/img-06.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/portfolio-masnory/img-07.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/portfolio-masnory/img-08.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/portfolio-masnory/img-09.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/post/img-01.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/post/img-02.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/post/img-03.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/post/img-04.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/post/img-05.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/post/img-06.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/post/img-07.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/post/img-08.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/post/img-09.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/post/img-10.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/post/img-11.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/post/img-12.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/post/img-13.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/post/img-14.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/post/img-15.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/post/img-16.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/post/img-17.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/post/img-18.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/post/img-19.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/post/img-20.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/post/img-21.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/post/img-22.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/post/img-23.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/product-thumbs/thumb-01.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/product-thumbs/thumb-04.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/product-thumbs/thumb-05.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/product-thumbs/thumb-06.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/product-thumbs/thumb-07.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/product-thumbs/thumb-08.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/product-thumbs/thumb-09.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/product-thumbs/thumb-10.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/product-thumbs/thumb-11.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/product-thumbs/thumb-12.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/product/img-01.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/product/img-02.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/product/img-03.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/product/img-04.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/product/img-05.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/product/img-06.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/product/img-07.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/product/img-08.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/product/img-09.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/product/img-10.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/product/img-11.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/product/img-12.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/product/img-13.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/recharge-clim.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/team/img-01.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/team/img-02.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/team/img-03.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/team/img-04.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/team/img-05.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/team/img-06.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/team/img-07.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/team/img-08.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/team/img-09.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/team/img-10.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/team/img-11.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/thumbnail/thumbnail-01.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/thumbnail/thumbnail-02.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/thumbnail/thumbnail-03.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/thumbnail/thumbnail-04.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/thumbnail/thumbnail-05.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/thumbnail/thumbnail-06.jpg" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/main.js" afterPath="$PROJECT_DIR$/js/main.js" />
     </list>
     <ignored path="mecatronic.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -455,12 +331,20 @@
       <workItem from="1470543863346" duration="10915000" />
       <workItem from="1470764696882" duration="605000" />
       <workItem from="1471309876360" duration="1655000" />
-      <workItem from="1471485174954" duration="9641000" />
+      <workItem from="1471485174954" duration="9703000" />
     </task>
+    <task id="LOCAL-00001" summary="modif">
+      <created>1471494841041</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1471494841041</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52421000" />
+    <option name="totallyTimeSpent" value="52483000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="39" width="1366" height="729" extended-state="6" />
@@ -494,6 +378,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="modif" />
+    <option name="LAST_COMMIT_MESSAGE" value="modif" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
