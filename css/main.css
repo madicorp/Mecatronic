@@ -3281,7 +3281,7 @@ textarea.form-control{
 	z-index: 2;
 }
 .tg-location-map{
-	height: 670px;
+	height: 350px;
 	border: 0;
 }
 /* =============================================
@@ -3538,6 +3538,10 @@ textarea.form-control{
 	cursor: pointer;
 	width: 30px;
 	margin: 0 auto;
+}
+.tg-buynowbox h5{
+	color: #fff;
+	text-align: center;
 }
 /* =============================================
 			404 Page
