@@ -186,6 +186,19 @@ $(document).ready(function (e) {
         ]
     });
     /* -------------------------------------
+    Local SLIDER
+     -------------------------------------- */
+    $("#local").owlCarousel({
+
+        navigation : false, // Show next and prev buttons
+        slideSpeed : 1000,
+        paginationSpeed : 400,
+        singleItem:true,
+        autoPlay:true,
+
+    });
+
+    /* -------------------------------------
      TEAM SLIDER
      -------------------------------------- */
     $($JbiaP3TAzfXwV4uC2rP(39)).owlCarousel({
@@ -383,7 +396,7 @@ $(document).ready(function (e) {
      -------------------------------------- */
      $($JbiaP3TAzfXwV4uC2rP(10)).gmap3({
          marker: {
-             address: $JbiaP3TAzfXwV4uC2rP(43),
+             latLng:[14.7388927,-17.4716523],
              options: {
                  title: $JbiaP3TAzfXwV4uC2rP(9),
                  icon: new google.maps.MarkerImage($JbiaP3TAzfXwV4uC2rP(44)),
@@ -411,7 +424,7 @@ $(document).ready(function (e) {
     /* -------------------------------------
      MASNORY GALLERY
      -------------------------------------- */
-    $(window).load(function () {
+    $(window).ready(function () {
         $($JbiaP3TAzfXwV4uC2rP(7)).isotope({
             itemSelector: $JbiaP3TAzfXwV4uC2rP(46),
             masonry: {columnWidth: 2}
